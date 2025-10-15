@@ -17,3 +17,5 @@ General and Advanced Helpful T-SQL Scripts
       Basic format for a new procedure that only returns table values (Selects only)      
 # 8) New Table Valued Function 
       Basic format for a new Table Function (Returns a Table)
+# 9) Global Data Search
+      Search all Tables & all Columns accross Database (GlobalDataSearch.sql)
